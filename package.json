@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "clynnus2",
   "version": "0.1.0",
   "private": true,
@@ -36,19 +35,4 @@
       "last 1 safari version"
     ]
   }
-=======
-  "name": "clynnus",
-  "version": "1.0.0",
-  "description": "personalwebsite",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "ItSeemedLikeAgoodIdeaAtTheTime"
-  },
-  "author": "clynn333@icloud.com",
-  "license": "ISC"
->>>>>>> d516a91e5dd6b578d98093aeebe352ff8429a236
 }
